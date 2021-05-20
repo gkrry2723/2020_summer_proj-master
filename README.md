@@ -3,3 +3,5 @@
 ## Projects
 1. [Classification](classification)
 2. [Hair Removal](hair_removal)
+
+DCGAN 통하여 피부의 hair remove
